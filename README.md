@@ -1,10 +1,9 @@
 # Green Travel WebApp
-pip to Install: <br>
-pip install django <br>
+
+ip install django==3.2.6  <br>
 pip install django-colorfield <br>
 pip install social-auth-app-django <br>
 (Latest django may show error on urls. So please downgrade) <br>
-pip install django==3.2.6  <br>
 pip install validate_email <br>
 pip install reportlab <br>
 <br>
